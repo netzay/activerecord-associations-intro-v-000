@@ -355,5 +355,3 @@ It's working!
 * [Blog CLI with ActiveRecord and Associations](https://www.youtube.com/watch?v=ZfJ1rqFcNFU)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/activerecord-associations-intro'>ActiveRecord Associations</a> on Learn.co and start learning to code for free.</p>
-
-5dqPYRsQd10
